@@ -1,0 +1,726 @@
+LOINC,10230-1,Left ventricular Ejection fraction,Congestive Heart Failure
+LOINC,14959-1,Microalbumin Creatinine Ratio,Wellness Encounters
+LOINC,19926-5,FEV1/FVC,COPD
+LOINC,24321-2,Basic Metabolic 2000 Panel,Metabolic Syndrome Standards of Care
+LOINC,24323-8,Comprehensive metabolic 2000 panel - Serum or Plasma,Veteran Prostate Cancer|Congestive Heart Failure|Lung Cancer|Colorectal Cancer|Gallstones|Veteran Hyperlipidemia|Dialysis
+LOINC,24357-6,Urinalysis macro (dipstick) panel - Urine,Veteran Prostate Cancer|Lung Cancer|Dialysis|Metabolic Syndrome Standards of Care
+LOINC,24360-0,Hemoglobin and Hematocrit panel - Blood,anemia_sub
+LOINC,28245-9,Abuse Status [OMAHA],Homelessness
+LOINC,2857-1,Prostate specific Ag [Mass/volume] in Serum or Plasma,Veteran Prostate Cancer
+LOINC,29463-7,Body Weight,Wellness Encounters
+LOINC,3016-3,Thyrotropin [Units/volume] in Serum or Plasma,Hypothyroidism
+LOINC,3024-7,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,Hypothyroidism
+LOINC,32465-7,Physical findings of Prostate,Veteran Prostate Cancer
+LOINC,33756-8,Polyp size greatest dimension by CAP cancer protocols,Colorectal Cancer
+LOINC,33762-6,NT-proBNP,Congestive Heart Failure
+LOINC,33914-3,Estimated Glomerular Filtration Rate,Wellness Encounters
+LOINC,38265-5,DXA [T-score] Bone density,Osteoporosis|Injuries
+LOINC,39156-5,Body Mass Index,Wellness Encounters
+LOINC,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,Metabolic Syndrome Standards of Care
+LOINC,46240-8,History of Hospitalizations+Outpatient visits,Homelessness
+LOINC,46288-7,US Guidance for biopsy of Prostate,Veteran Prostate Cancer
+LOINC,51990-0,Basic Metabolic Panel,Congestive Heart Failure|Wellness Encounters
+LOINC,55277-8,HIV status,Homelessness
+LOINC,55284-4,Blood Pressure,Congestive Heart Failure|Wellness Encounters
+LOINC,55405-5,Heartfailure Tracking Panel,Congestive Heart Failure
+LOINC,57698-3,Lipid Panel,Veteran Hyperlipidemia|Wellness Encounters
+LOINC,57905-2,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method,Colorectal Cancer
+LOINC,58410-2,Complete blood count (hemogram) panel - Blood by Automated count,Veteran Prostate Cancer|Lung Cancer|anemia_sub|Colorectal Cancer|Wellness Encounters
+LOINC,6075-6,Cladosporium herbarum IgE Ab in Serum,Allergy Panel
+LOINC,6082-2,Codfish IgE Ab in Serum,Allergy Panel
+LOINC,6085-5,Common Ragweed IgE Ab in Serum,Allergy Panel
+LOINC,6095-4,American house dust mite IgE Ab in Serum,Allergy Panel
+LOINC,6106-9,Egg white IgE Ab in Serum,Allergy Panel
+LOINC,61576-5,PROMIS short form - global - version 1.1,Functional Status Assessments
+LOINC,6158-0,Latex IgE Ab in Serum,Allergy Panel
+LOINC,6189-5,White oak IgE Ab in Serum,Allergy Panel
+LOINC,6206-7,Peanut IgE Ab in Serum,Allergy Panel
+LOINC,62337-1,PROMIS item bank - 29 profile,Functional Status Assessments
+LOINC,6246-3,Shrimp IgE Ab in Serum,Allergy Panel
+LOINC,6248-9,Soybean IgE Ab in Serum,Allergy Panel
+LOINC,6273-7,Walnut IgE Ab in Serum,Allergy Panel
+LOINC,6276-0,Wheat IgE Ab in Serum,Allergy Panel
+LOINC,63513-6,Are you covered by health insurance or some other kind of health care plan [PhenX],Homelessness
+LOINC,66519-0,Percentage area affected by eczema Head and Neck,Moderate Contact Dermatitis Observations|Mid Childhood Severe Eczema Observations|Early Childhood Moderate Eczema Observations|Severe Contact Dermatitis Observations|Mid Childhood Moderate Eczema Observations|Early Childhood Severe Eczema Observations
+LOINC,66524-0,Percentage area affected by eczema Upper extremitiy - bilateral,Moderate Contact Dermatitis Observations|Mid Childhood Severe Eczema Observations|Early Childhood Moderate Eczema Observations|Severe Contact Dermatitis Observations|Mid Childhood Moderate Eczema Observations|Early Childhood Severe Eczema Observations
+LOINC,66529-9,Percentage area affected by eczema Trunk,Moderate Contact Dermatitis Observations|Mid Childhood Severe Eczema Observations|Early Childhood Moderate Eczema Observations|Severe Contact Dermatitis Observations|Mid Childhood Moderate Eczema Observations|Early Childhood Severe Eczema Observations
+LOINC,66534-9,Percentage area affected by eczema Lower extremitiy - bilateral,Moderate Contact Dermatitis Observations|Mid Childhood Severe Eczema Observations|Early Childhood Moderate Eczema Observations|Severe Contact Dermatitis Observations|Mid Childhood Moderate Eczema Observations|Early Childhood Severe Eczema Observations
+LOINC,6833-8,Cat dander IgE Ab in Serum,Allergy Panel
+LOINC,6844-5,Honey bee IgE Ab in Serum,Allergy Panel
+LOINC,69409-1,U.S. standard certificate of death - 2003 revision,DeathModule
+LOINC,69453-9,Cause of Death [US Standard Certificate of Death],DeathModule
+LOINC,69742-5,CBC W Differential panel  method unspecified - Blood,Gallstones
+LOINC,71802-3,Housing status,Homelessness
+LOINC,71933-6,Veterans Rand health survey - 36 item (VR-36),Functional Status Assessments
+LOINC,71934-4,Veterans Rand health survey - 12 item (VR-12),Functional Status Assessments
+LOINC,72091-2,Knee injury and Osteoarthritis Outcome Score [KOOS],Functional Status Assessments
+LOINC,72092-0,Hip Dysfunction and Osteoarthritis Outcome Score [HOOS],Functional Status Assessments
+LOINC,72106-8,Total score [MMSE],Dementia
+LOINC,72166-2,Tobacco smoking status NHIS,Wellness Encounters
+LOINC,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,Lung Cancer|Opioid Addiction|Gout|Colorectal Cancer|Fibromyalgia|Veteran PTSD|Dialysis|Wellness Encounters|Osteoarthritis
+LOINC,7258-7,Cow milk IgE Ab in Serum,Allergy Panel
+LOINC,74006-8,Weight difference [Mass difference] --pre dialysis - post dialysis,Dialysis
+LOINC,75443-2,Mental health Outpatient Note,Veteran PTSD|Veteran MDD
+LOINC,76690-7,Sexual orientation,Homelessness
+LOINC,80271-0,Physical findings of Abdomen by Palpation,Gallstones
+LOINC,8302-2,Body Height,Wellness Encounters
+LOINC,8331-1,Oral temperature,Sore Throat
+LOINC,84215-3,Mental health Telehealth Note,Veteran PTSD
+LOINC,87626-8,Suicide prevention note,Veteran Self Harm
+NUBC,01,Discharged to home care or self care (routine discharge),Appendicitis|Epilepsy|Gallstones|Veteran PTSD|Veteran MDD
+NUBC,02,Transferred to a short term general hospital for inpatient care,Pregnancy
+RxNorm,1000126,1 ML medroxyprogesterone acetate 150 MG/ML Injection,Injectable Contraceptive
+RxNorm,1000156,0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe,Injectable Contraceptive
+RxNorm,1014676,cetirizine hydrochloride 5 MG Oral Tablet,Over-The-Counter Antihistamine
+RxNorm,1014678,cetirizine hydrochloride 10 MG Oral Tablet,Over-The-Counter Antihistamine
+RxNorm,1043400,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,Bronchitis
+RxNorm,1049221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,Moderate Opioid Pain Reliever|Opioid Addiction
+RxNorm,1049630,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,Over-The-Counter Antihistamine
+RxNorm,1049636,Acetaminophen 325 MG / oxyCODONE Hydrochloride 2.5 MG [Percocet],Fibromyalgia
+RxNorm,1049683,oxyCODONE Hydrochloride 10 MG Oral Tablet,Strong Opioid Pain Reliever
+RxNorm,105078,Penicillin G 375 MG/ML Injectable Solution,Ear Infection Antibiotic
+RxNorm,105586,Methotrexate 10 MG Oral Tablet,Rheumatoid Arthritis
+RxNorm,106258,Hydrocortisone 10 MG/ML Topical Cream,Dermatitis
+RxNorm,106892,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],Metabolic Syndrome Standards of Care
+RxNorm,1091392,Methylphenidate Hydrochloride 20 MG Oral Tablet,Attention Deficit Disorder
+RxNorm,1094107,Phenazopyridine hydrochloride 100 MG Oral Tablet,Urinary Tract Infections
+RxNorm,1153378,Clonazepam [Klonopin],Epilepsy
+RxNorm,1160499,IV antibiotic Vancomycin,Cystic Fibrosis
+RxNorm,1190795,Atropine Sulfate 1 MG/ML Injectable Solution,CardiovascularDiseaseModule
+RxNorm,1234995,Rocuronium bromide 10 MG/ML Injectable Solution,General Anesthesia
+RxNorm,1310197,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin],Opioid Addiction
+RxNorm,1359133,Estrostep Fe 28 Day Pack,Oral Contraceptive
+RxNorm,1363309,Chlorpheniramine Maleate 4 MG Oral Tablet,Over-The-Counter Antihistamine
+RxNorm,1366343,Levonorgestrel 0.00354 MG/HR Drug Implant,Implant Contraceptive
+RxNorm,1367439,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,Vaginal Ring Contraceptive
+RxNorm,1373463,canagliflozin 100 MG Oral Tablet,Metabolic Syndrome Standards of Care
+RxNorm,141918,Terfenadine 60 MG Oral Tablet,Over-The-Counter Antihistamine
+RxNorm,1534809,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,Patch Contraceptive
+RxNorm,1599803,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,Dementia
+RxNorm,1605257,Liletta 52 MG Intrauterine System,Intrauterine Device
+RxNorm,1650142,Doxycycline Monohydrate 100 MG Oral Tablet,Ear Infection Antibiotic
+RxNorm,1652673,Doxycycline Monohydrate 50 MG Oral Tablet,Ear Infection Antibiotic
+RxNorm,1655927,Ivacaftor,Cystic Fibrosis
+RxNorm,1656318,Cefotaxime 2000 MG Injection,Gallstones
+RxNorm,1659149,Piperacillin 4000 MG / tazobactam 500 MG Injection,Gallstones
+RxNorm,1660014,1 ML Epinephrine 1 MG/ML Injection,CardiovascularDiseaseModule
+RxNorm,1719286,10 ML Furosemide 10 MG/ML Injection,Congestive Heart Failure
+RxNorm,1732136,1 ML Morphine Sulfate 5 MG/ML Injection,Gallstones
+RxNorm,1734340,Etoposide 100 MG Injection,Veteran Lung Cancer|Lung Cancer
+RxNorm,1736776,10 ML oxaliplatin 5 MG/ML Injection,Colorectal Cancer
+RxNorm,1736854,Cisplatin 50 MG Injection,Veteran Lung Cancer|Lung Cancer
+RxNorm,1740467,2 ML Ondansetron 2 MG/ML Injection,Gallstones|General Anesthesia
+RxNorm,1803932,Leucovorin 100 MG Injection,Colorectal Cancer
+RxNorm,1804799,Alteplase 100 MG Injection,CardiovascularDiseaseModule
+RxNorm,1808217,100 ML Propofol 10 MG/ML Injection,General Anesthesia
+RxNorm,1856546,Kyleena 19.5 MG Intrauterine System,Intrauterine Device
+RxNorm,1860154,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,Opioid Addiction
+RxNorm,1860480,1 ML DOCEtaxel 20 MG/ML Injection,Veteran Prostate Cancer
+RxNorm,1870230,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,Allergies and Treatment
+RxNorm,197319,Allopurinol 100 MG Oral Tablet,Gout
+RxNorm,197361,Amlodipine 5 MG Oral Tablet,CardiovascularDiseaseModule
+RxNorm,197378,Astemizole 10 MG Oral Tablet,Over-The-Counter Antihistamine
+RxNorm,197604,Digoxin 0.125 MG Oral Tablet,CardiovascularDiseaseModule
+RxNorm,198014,Naproxen 500 MG Oral Tablet,Rheumatoid Arthritis|Gout|Fibromyalgia
+RxNorm,198031,24hr nicotine transdermal patch,Veteran Substance Abuse Treatment
+RxNorm,198405,Ibuprofen 100 MG Oral Tablet,Over-The-Counter Pain Reliever
+RxNorm,2001499,Vitamin B 12 5 MG/ML Injectable Solution,anemia_sub
+RxNorm,200243,sevoflurane 1000 MG/ML Inhalant Solution,General Anesthesia
+RxNorm,200252,desflurane 990 MG/ML Inhalant Solution,General Anesthesia
+RxNorm,205532,Pulmozyme (Dornase Alfa),Cystic Fibrosis
+RxNorm,205923,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],Dialysis
+RxNorm,210856,Pancreatin 4X 600 MG Oral Tablet,Cystic Fibrosis
+RxNorm,235389,Mestranol / Norethynodrel [Enovid],Oral Contraceptive
+RxNorm,238100,Lorazepam 2 MG/ML Injectable Solution,General Anesthesia
+RxNorm,243670,Aspirin 81 MG Oral Tablet,Over-The-Counter Pain Reliever
+RxNorm,259255,Atorvastatin 80 MG Oral Tablet,CardiovascularDiseaseModule
+RxNorm,282464,Acetaminophen 160 MG Oral Tablet,Over-The-Counter Pain Reliever
+RxNorm,308182,Amoxicillin 250 MG Oral Capsule,Ear Infection Antibiotic
+RxNorm,308192,Amoxicillin 500 MG Oral Tablet,Ear Infection Antibiotic
+RxNorm,308971,Carbamazepine[Tegretol],Epilepsy
+RxNorm,309043,12 HR Cefaclor 500 MG Extended Release Oral Tablet,Ear Infection Antibiotic
+RxNorm,309045,Cefaclor 250 MG Oral Capsule,Ear Infection Antibiotic
+RxNorm,309097,Cefuroxime 250 MG Oral Tablet,Ear Infection Antibiotic
+RxNorm,309362,Clopidogrel 75 MG Oral Tablet,CardiovascularDiseaseModule
+RxNorm,309845,Diazepam 5 MG/ML Injectable Solution,General Anesthesia
+RxNorm,310325,ferrous sulfate 325 MG Oral Tablet,anemia_sub
+RxNorm,310436,Galantamine 4 MG Oral Tablet,Dementia
+RxNorm,310965,Ibuprofen 200 MG Oral Tablet,Over-The-Counter Pain Reliever
+RxNorm,311372,Loratadine 10 MG Oral Tablet,Over-The-Counter Antihistamine
+RxNorm,311700,Midazolam 1 MG/ML Injectable Solution,General Anesthesia
+RxNorm,311989,Nitrofurantoin 5 MG/ML Oral Suspension,Urinary Tract Infections
+RxNorm,311995,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule,Urinary Tract Infections
+RxNorm,312617,predniSONE 5 MG Oral Tablet,Severe Allergic Reaction
+RxNorm,312961,Simvastatin 20 MG Oral Tablet,CardiovascularDiseaseModule
+RxNorm,313002,Sodium Chloride 9 MG/ML Injectable Solution,Gallstones
+RxNorm,313185,Tacrine 10 MG Oral Capsule,Dementia
+RxNorm,313782,Acetaminophen 325 MG Oral Tablet,Over-The-Counter Pain Reliever|Bronchitis
+RxNorm,314659,heparin sodium  porcine,Gallstones
+RxNorm,315971,Lasix 40mg,Congestive Heart Failure
+RxNorm,316049,Hydrochlorothiazide 25 MG,Metabolic Syndrome Standards of Care
+RxNorm,316052,Hydrochlorothiazide 6.25 MG,Metabolic Syndrome Standards of Care
+RxNorm,316672,Simvistatin 10 MG,Veteran Hyperlipidemia
+RxNorm,328670,Sertraline 100MG,Veteran PTSD
+RxNorm,389221,Etonogestrel 68 MG Drug Implant,Implant Contraceptive
+RxNorm,406022,Fluoxetine 25MG,Veteran MDD
+RxNorm,4337,Fentanyl,General Anesthesia
+RxNorm,477045,Chlorpheniramine Maleate 2 MG/ML Oral Solution,Over-The-Counter Antihistamine
+RxNorm,480,Alfentanil,General Anesthesia
+RxNorm,483438,pregabalin 100 MG Oral Capsule,Fibromyalgia
+RxNorm,542347,Isoflurane 999 MG/ML Inhalant Solution,General Anesthesia
+RxNorm,562251,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,Sinusitis
+RxNorm,563026,Diazepam [Valium],Epilepsy
+RxNorm,567645,predniSONE 2.5 MG [Deltasone],Lupus|Rheumatoid Arthritis
+RxNorm,56795,Sufentanil,General Anesthesia
+RxNorm,583214,PACLitaxel 100 MG Injection,Veteran Lung Cancer|Lung Cancer
+RxNorm,596926,duloxetine 20 MG Delayed Release Oral Capsule,Fibromyalgia
+RxNorm,608139,atomoxetine 100 MG Oral Capsule,Attention Deficit Disorder
+RxNorm,665078,Loratadine 5 MG Chewable Tablet,Over-The-Counter Antihistamine
+RxNorm,705129,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,CardiovascularDiseaseModule
+RxNorm,73032,Remifentanil,General Anesthesia
+RxNorm,745679,200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,Asthma
+RxNorm,748856,Yaz 28 Day Pack,Oral Contraceptive
+RxNorm,748879,Levora 0.15/30 28 Day Pack,Oral Contraceptive
+RxNorm,748962,Camila 28 Day Pack,Oral Contraceptive
+RxNorm,749762,Seasonique 91 Day Pack,Oral Contraceptive
+RxNorm,749785,Ortho Tri-Cyclen 28 Day Pack,Oral Contraceptive
+RxNorm,749882,Norinyl 1+50 28 Day Pack,Oral Contraceptive
+RxNorm,751905,Trinessa 28 Day Pack,Oral Contraceptive
+RxNorm,752899,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,Veteran Prostate Cancer
+RxNorm,757594,Jolivette 28 Day Pack,Oral Contraceptive
+RxNorm,789980,Ampicillin 100 MG/ML Injectable Solution,Ear Infection Antibiotic
+RxNorm,807283,Mirena 52 MG Intrauterine System,Intrauterine Device
+RxNorm,831533,Errin 28 Day Pack,Oral Contraceptive
+RxNorm,833036,Captopril 25 MG Oral Tablet,CardiovascularDiseaseModule
+RxNorm,833137,Milnacipran hydrochloride 100 MG [Savella],Fibromyalgia
+RxNorm,834061,Penicillin V Potassium 250 MG Oral Tablet,Sore Throat
+RxNorm,834102,Penicillin V Potassium 500 MG Oral Tablet,Sore Throat
+RxNorm,834357,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe,CardiovascularDiseaseModule
+RxNorm,835900,cycloSPORINE  modified 100 MG [Neoral],Lupus|Dermatitis
+RxNorm,849574,Naproxen sodium 220 MG Oral Tablet,Lupus|Over-The-Counter Pain Reliever|Osteoarthritis
+RxNorm,855332,Warfarin Sodium 5 MG Oral Tablet,CardiovascularDiseaseModule
+RxNorm,856980,Acetaminophen/Hydrocodone,Veteran PTSD
+RxNorm,857005,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,Moderate Opioid Pain Reliever
+RxNorm,858069,Colchicine 0.6 MG [Colcrys],Gout
+RxNorm,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,Metabolic Syndrome Standards of Care
+RxNorm,861467,Meperidine Hydrochloride 50 MG Oral Tablet,Moderate Opioid Pain Reliever
+RxNorm,864718,Methadone Hydrochloride 5 MG Oral Tablet,Strong Opioid Pain Reliever
+RxNorm,865098,Insulin Lispro 100 UNT/ML Injectable Solution [Humalog],Metabolic Syndrome Standards of Care
+RxNorm,866414,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],Congestive Heart Failure
+RxNorm,895994,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,Asthma
+RxNorm,896209,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,COPD
+RxNorm,897122,3 ML liraglutide 6 MG/ML Pen Injector,Metabolic Syndrome Standards of Care
+RxNorm,897718,Verapamil Hydrochloride 40 MG,CardiovascularDiseaseModule
+RxNorm,904419,Alendronic acid 10 MG Oral Tablet,Osteoporosis
+RxNorm,966222,Levothyroxine Sodium 0.075 MG Oral Tablet,Hypothyroidism
+RxNorm,978950,Natazia 28 Day Pack,Oral Contraceptive
+RxNorm,996740,Memantine hydrochloride 2 MG/ML Oral Solution,Dementia
+RxNorm,997223,Donepezil hydrochloride 10 MG Oral Tablet,Dementia
+RxNorm,997488,Fexofenadine hydrochloride 30 MG Oral Tablet,Over-The-Counter Antihistamine
+RxNorm,997501,Fexofenadine hydrochloride 60 MG Oral Tablet,Over-The-Counter Antihistamine
+RxNorm,998582,Donepezil hydrochloride 23 MG [Aricept],Dementia
+RxNorm,998755,Ciprofloxacin 10MG/ML,Cystic Fibrosis
+SNOMED-CT,10029008,Suicide precautions,Self Harm|Veteran Self Harm
+SNOMED-CT,1015401000000102,Fecal occult blood test,Colorectal Cancer
+SNOMED-CT,103744005,Administration of intravenous fluids,Colorectal Cancer
+SNOMED-CT,10383002,Counseling for termination of pregnancy,Pregnancy
+SNOMED-CT,104091002,Hemoglobin / Hematocrit / Platelet count,Pregnancy
+SNOMED-CT,104173009,Sputum Culture,Cystic Fibrosis
+SNOMED-CT,104326007,Measurement of Varicella-zoster virus antibody,Pregnancy
+SNOMED-CT,104375008,Hepatitis C antibody test,Pregnancy
+SNOMED-CT,10509002,Acute bronchitis (disorder),Bronchitis
+SNOMED-CT,10888001,Liquid diet,Colorectal Cancer
+SNOMED-CT,109838007,Overlapping malignant neoplasm of colon,Colorectal Cancer
+SNOMED-CT,110030002,Concussion injury of brain,Injuries
+SNOMED-CT,112001000119100,positive screening for PHQ-9,Veteran MDD
+SNOMED-CT,112011000119102,negative screening for PHQ9,Veteran MDD
+SNOMED-CT,11218009,Infection caused by Pseudomonas aeruginosa,Cystic Fibrosis
+SNOMED-CT,112790001,Nasal sinus endoscopy (procedure),Sinusitis
+SNOMED-CT,113076002,Oral Glucose Tolerance Test,Cystic Fibrosis
+SNOMED-CT,11466000,Cesarean section,Pregnancy
+SNOMED-CT,117010004,Urine culture,Pregnancy
+SNOMED-CT,117015009,Throat culture (procedure),Sore Throat
+SNOMED-CT,118001005,Streptococcus pneumoniae group B antigen test,Pregnancy
+SNOMED-CT,11816003,Diet education (procedure),Dialysis
+SNOMED-CT,124171000119105,Chronic intractable migraine without aura,Opioid Addiction
+SNOMED-CT,126906006,Neoplasm of prostate,Veteran Prostate Cancer
+SNOMED-CT,127013003,Diabetic renal disease (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,127295002,Traumatic brain injury (disorder),Veteran mild TBI
+SNOMED-CT,127783003,Spirometry (procedure),COPD
+SNOMED-CT,128613002,Seizure disorder,Epilepsy
+SNOMED-CT,133899007,Postoperative care,Gallstones
+SNOMED-CT,133901003,Burn care,Injuries
+SNOMED-CT,133918004,Comfort measures,Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,134435003,Routine antenatal care,Pregnancy
+SNOMED-CT,135892000,Antenatal education,Pregnancy
+SNOMED-CT,13995008,Amputation of right arm,Metabolic Syndrome Standards of Care
+SNOMED-CT,14152002,Intravenous infusion (procedure),Cystic Fibrosis
+SNOMED-CT,14768001,Peripheral blood smear interpretation,anemia_sub
+SNOMED-CT,1501000119109,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,15081005,Pulmonary rehabilitation (regime/therapy),COPD
+SNOMED-CT,1551000119108,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,156073000,Fetus with unknown complication,Pregnancy
+SNOMED-CT,157141000119108,Proteinuria due to type 2 diabetes mellitus (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,15724005,Fracture of vertebral column without spinal cord injury,Injuries
+SNOMED-CT,15777000,Prediabetes,Metabolic Syndrome Standards of Care
+SNOMED-CT,160670007,Diabetic diet,Metabolic Syndrome Standards of Care
+SNOMED-CT,16114001,Fracture of ankle,Injuries
+SNOMED-CT,161621004,History of upper limb amputation (situation),Metabolic Syndrome Standards of Care
+SNOMED-CT,161622006,History of lower limb amputation (situation),Metabolic Syndrome Standards of Care
+SNOMED-CT,162573006,Suspected lung cancer (situation),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,162673000,General examination of patient (procedure),EncounterModule
+SNOMED-CT,162676008,Brief general examination (procedure),anemia_sub
+SNOMED-CT,162864005,Body mass index 30+ - obesity (finding),Metabolic Syndrome Standards of Care
+SNOMED-CT,165829005,Gonorrhea infection test,Pregnancy
+SNOMED-CT,16602611000119108,Awaiting transplantation of lung (situation),Cystic Fibrosis
+SNOMED-CT,167271000,Urine protein test,Pregnancy
+SNOMED-CT,167995008,Sputum microscopy (procedure),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,169230002,Ultrasound scan for fetal viability,Pregnancy
+SNOMED-CT,169553002,Insertion of subcutaneous contraceptive,Implant Contraceptive
+SNOMED-CT,169673001,Antenatal RhD antibody screening,Pregnancy
+SNOMED-CT,169690007,Rubella screening,Pregnancy
+SNOMED-CT,169762003,Postnatal visit,Pregnancy
+SNOMED-CT,170836005,Allergic disorder monitoring,Allergy Immunotherapy
+SNOMED-CT,170837001,Allergic disorder initial assessment,Allergy Immunotherapy
+SNOMED-CT,170838006,Allergic disorder follow-up assessment,Allergy Immunotherapy
+SNOMED-CT,171207006,Depression screening,Pregnancy
+SNOMED-CT,171231001,Asthma screening,Asthma
+SNOMED-CT,171245007,Urine screening,Urinary Tract Infections
+SNOMED-CT,173160006,Diagnostic fiberoptic bronchoscopy (procedure),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,1734006,Fracture of the vertebral column with spinal cord injury,Injuries
+SNOMED-CT,177157003,Spontaneous breech delivery,Pregnancy
+SNOMED-CT,180030006,Amputation of left foot,Metabolic Syndrome Standards of Care
+SNOMED-CT,180207008,Intravenous blood transfusion of packed cells (procedure),anemia_sub
+SNOMED-CT,180256009,Subcutaneous immunotherapy,Allergy Immunotherapy
+SNOMED-CT,180325003,Electrical cardioversion,CardiovascularDiseaseModule
+SNOMED-CT,182846007,Dr stopped drug - medical aim achieved,CardiovascularDiseaseModule
+SNOMED-CT,18286008,Catheter ablation of tissue of heart,CardiovascularDiseaseModule
+SNOMED-CT,182964004,Terminal care,Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,183051005,Recommendation to rest,Female Sterilization|Male Sterilization|Injuries
+SNOMED-CT,183063000,low salt diet education,Congestive Heart Failure|Veteran Hyperlipidemia|Dialysis
+SNOMED-CT,183301007,physical exercise,Congestive Heart Failure|Rheumatoid Arthritis|Gout|Veteran Hyperlipidemia
+SNOMED-CT,183401008,Anti-suicide psychotherapy,Self Harm|Veteran Self Harm|Veteran PTSD
+SNOMED-CT,183402001,Potential suicide care (regime/therapy),Veteran PTSD
+SNOMED-CT,183450002,Admission to burn unit,Injuries
+SNOMED-CT,183452005,Encounter Inpatient,Opioid Addiction|Appendicitis
+SNOMED-CT,183460006,Obstetric emergency hospital admission,Pregnancy
+SNOMED-CT,183478001,Emergency hospital admission for asthma,Asthma
+SNOMED-CT,183495009,Non-urgent orthopedic admission,Total Joint Replacement|Injuries
+SNOMED-CT,183801001,Inpatient stay 3 days,Veteran PTSD
+SNOMED-CT,185086009,Chronic obstructive bronchitis (disorder),COPD
+SNOMED-CT,185317003,Telephone encounter (procedure),Veteran Self Harm|Veteran PTSD
+SNOMED-CT,185345009,Encounter for symptom,Veteran Prostate Cancer|Ear Infections|Veteran mild TBI |Colorectal Cancer|Veteran Hyperlipidemia|Sore Throat|Sinusitis|Asthma|Urinary Tract Infections|Allergic Rhinitis|Veteran PTSD|Bronchitis|Veteran MDD
+SNOMED-CT,185347001,Encounter for problem,Lupus|Veteran Prostate Cancer|Congestive Heart Failure|Lung Cancer|anemia_sub|Rheumatoid Arthritis|Gout|Veteran Self Harm|Colorectal Cancer|Fibromyalgia|Allergies and Treatment|Food Allergies|Hypothyroidism|Dermatitis|Metabolic Syndrome Standards of Care|Attention Deficit Disorder|Veteran Lung Cancer|Self Harm|Opioid Addiction|Veteran PTSD|Dialysis|Veteran MDD|Osteoarthritis|Injuries
+SNOMED-CT,185349003,Encounter for 'check-up',Total Joint Replacement|Cystic Fibrosis|Colorectal Cancer|Gallstones|EncounterModule|Injuries
+SNOMED-CT,185389009,Follow-up visit (procedure),Total Joint Replacement
+SNOMED-CT,18946005,Epidural anesthesia,Pregnancy
+SNOMED-CT,190905008,Cystic Fibrosis,Cystic Fibrosis
+SNOMED-CT,19169002,Miscarriage in first trimester,Pregnancy
+SNOMED-CT,192127007,Child attention deficit disorder,Attention Deficit Disorder
+SNOMED-CT,195662009,Acute viral pharyngitis (disorder),Sore Throat
+SNOMED-CT,195967001,Asthma,Asthma
+SNOMED-CT,196416002,Impacted molars,Opioid Addiction
+SNOMED-CT,197927001,Recurrent urinary tract infection,Urinary Tract Infections
+SNOMED-CT,198992004,Antepartum eclampsia,Pregnancy
+SNOMED-CT,200936003,Lupus erythematosus,Lupus
+SNOMED-CT,201834006,Localized  primary osteoarthritis of the hand,Osteoarthritis
+SNOMED-CT,206523001,Meconium Ileus,Cystic Fibrosis
+SNOMED-CT,210098006,Domiciliary or rest home patient evaluation and management,Homelessness
+SNOMED-CT,22298006,Myocardial Infarction,CardiovascularDiseaseModule
+SNOMED-CT,223472008,Discussion about hygiene,Urinary Tract Infections
+SNOMED-CT,225130001,Application of moisturizer to skin,Dermatitis
+SNOMED-CT,225158009,Auscultation of the fetal heart,Pregnancy
+SNOMED-CT,22523008,Vasectomy,Male Sterilization
+SNOMED-CT,225302006,Insulin Therapy,Cystic Fibrosis
+SNOMED-CT,225317005,Restriction of movement,Gallstones
+SNOMED-CT,225323000,Smoking cessation education,Congestive Heart Failure
+SNOMED-CT,225337009,Suicide Risk Assessment,Veteran PTSD|Veteran MDD
+SNOMED-CT,225358003,Wound care,Gallstones|Injuries
+SNOMED-CT,225444004,At risk for suicide (finding),Veteran PTSD
+SNOMED-CT,226029000,Exercise Therapy,Cystic Fibrosis
+SNOMED-CT,226060000,Stress management,Fibromyalgia
+SNOMED-CT,226138001,Alcohol-free diet,Injuries
+SNOMED-CT,226234005,Healthy diet,Lupus|Rheumatoid Arthritis|Gout|Colorectal Cancer
+SNOMED-CT,228557008,Cognitive and behavioral therapy,Attention Deficit Disorder
+SNOMED-CT,229065009,Exercise therapy,Metabolic Syndrome Standards of Care|COPD
+SNOMED-CT,229070002,Stretching exercises,Total Joint Replacement|Injuries
+SNOMED-CT,229152003,Lower limb exercises (regime/therapy),Dialysis
+SNOMED-CT,229298005,Breathing control,Asthma
+SNOMED-CT,229578001,Ice bath treatment,Veteran Prostate Cancer
+SNOMED-CT,229580007,Ice therapy,Rheumatoid Arthritis|Gout
+SNOMED-CT,229586001,Rest  ice  compression and elevation treatment programme,Injuries
+SNOMED-CT,230265002,Familial Alzheimer's disease of early onset (disorder),Dementia
+SNOMED-CT,230690007,Stroke,CardiovascularDiseaseModule
+SNOMED-CT,231181000000100,Delivery of rehabilitation for spinal cord injury,Injuries
+SNOMED-CT,232347008,Dander (animal) allergy,Outgrow Environmental Allergies|Allergy Incidence
+SNOMED-CT,232350006,House dust mite allergy,Outgrow Environmental Allergies|Allergy Incidence
+SNOMED-CT,232353008,Perennial allergic rhinitis with seasonal variation,Allergic Rhinitis
+SNOMED-CT,232657004,Lung Transplant,Cystic Fibrosis
+SNOMED-CT,232717009,Coronary artery bypass grafting,CardiovascularDiseaseModule
+SNOMED-CT,233604007,Pneumonia,Dementia
+SNOMED-CT,233678006,Childhood asthma,Asthma
+SNOMED-CT,23426006,Pulmonary Function Test,Cystic Fibrosis|Bronchitis
+SNOMED-CT,235919008,Cholelithiasis,Gallstones
+SNOMED-CT,236077008,Protracted diarrhea,Colorectal Cancer
+SNOMED-CT,236931002,Methotrexate injection into tubal pregnancy,Pregnancy
+SNOMED-CT,236974004,Instrumental delivery,Pregnancy
+SNOMED-CT,237001001,Augmentation of labor,Pregnancy
+SNOMED-CT,237602007,Metabolic syndrome X (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,239720000,Tear of meniscus of knee,Injuries
+SNOMED-CT,239872002,Osteoarthritis of hip,Osteoarthritis
+SNOMED-CT,239873007,Osteoarthritis of knee,Osteoarthritis
+SNOMED-CT,24079001,Atopic dermatitis,Dermatitis
+SNOMED-CT,24165007,Alcoholism counseling,Veteran Substance Abuse Treatment
+SNOMED-CT,241929008,Acute allergic reaction,Severe Allergic Reaction
+SNOMED-CT,243072006,Cancer education,Veteran Lung Cancer|Lung Cancer|Colorectal Cancer
+SNOMED-CT,243077000,Recommendation to limit sexual activity,Female Sterilization|Male Sterilization
+SNOMED-CT,252160004,Standard pregnancy test,Pregnancy
+SNOMED-CT,254632001,Small cell carcinoma of lung (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,254637007,Non-small cell lung cancer (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,262574004,Bullet wound,Injuries
+SNOMED-CT,263102004,Fracture subluxation of wrist,Injuries
+SNOMED-CT,265764009,Renal dialysis (procedure),Dialysis
+SNOMED-CT,266694003,Heat therapy,Osteoarthritis|Injuries
+SNOMED-CT,266707007,Drug addiction therapy,Opioid Addiction
+SNOMED-CT,267253006,Fetus with chromosomal abnormality,Pregnancy
+SNOMED-CT,268556000,Urine screening for glucose,Pregnancy
+SNOMED-CT,26929004,Alzheimer's disease (disorder),Dementia
+SNOMED-CT,269828009,Syphilis infection test,Pregnancy
+SNOMED-CT,269911007,Sputum examination (procedure),Bronchitis
+SNOMED-CT,270427003,Patient-initiated encounter,Pregnancy
+SNOMED-CT,271442007,Fetal anatomy study,Pregnancy
+SNOMED-CT,271737000,Anemia (disorder),anemia_sub
+SNOMED-CT,274031008,Rectal polypectomy,Colorectal Cancer
+SNOMED-CT,274474001,Bone immobilization,Injuries
+SNOMED-CT,274804006,Evaluation of uterine fundal height,Pregnancy
+SNOMED-CT,275272006,Brain damage - traumatic,Injuries
+SNOMED-CT,275833003,Alpha-fetoprotein test,Pregnancy
+SNOMED-CT,28163009,Skin test for tuberculosis,Pregnancy
+SNOMED-CT,281790008,Intravenous antibiotic therapy,Cystic Fibrosis
+SNOMED-CT,283371005,Laceration of forearm,Injuries
+SNOMED-CT,283385000,Laceration of thigh,Injuries
+SNOMED-CT,284549007,Laceration of hand,Injuries
+SNOMED-CT,284551006,Laceration of foot,Injuries
+SNOMED-CT,287182007,Attempted suicide - suffocation,Self Harm|Veteran Self Harm
+SNOMED-CT,287185009,Attempted suicide - cut/stab,Self Harm|Veteran Self Harm
+SNOMED-CT,287191006,Suicide - suffocation,Self Harm|Veteran Self Harm
+SNOMED-CT,287193009,Suicide - firearms,Self Harm|Veteran Self Harm
+SNOMED-CT,287664005,Bilateral tubal ligation,Female Sterilization
+SNOMED-CT,288086009,Suture open wound,Injuries
+SNOMED-CT,29240004,Autopsy examination,Self Harm|Veteran Self Harm
+SNOMED-CT,29303009,Electrocardiographic procedure,Gallstones
+SNOMED-CT,300913006,Shellfish allergy,Allergy Incidence
+SNOMED-CT,300916003,Latex allergy,Outgrow Food Allergies|Allergy Incidence
+SNOMED-CT,301011002,Escherichia coli urinary tract infection,Urinary Tract Infections
+SNOMED-CT,301807007,Removal of subcutaneous contraceptive,Contraceptive Maintenance
+SNOMED-CT,302870006,Hypertriglyceridemia (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,304510005,Recommendation to avoid exercise,Bronchitis
+SNOMED-CT,304822001,Psychodynamic Interpersonal Therapy,Veteran MDD
+SNOMED-CT,305340004,Admission to long stay hospital,Injuries
+SNOMED-CT,305408004,Admission to surgical department,Pregnancy|Female Sterilization
+SNOMED-CT,305411003,Admission to thoracic surgery department,COPD
+SNOMED-CT,305425002,Admission to neurosurgical department,Injuries
+SNOMED-CT,305428000,Admission to orthopedic department,Injuries
+SNOMED-CT,305433001,Admission to trauma surgery department,Injuries
+SNOMED-CT,307731004,Injury of tendon of the rotator cuff of shoulder,Injuries
+SNOMED-CT,308113006,Self Monitoring of Blood Glucose,Cystic Fibrosis
+SNOMED-CT,30832001,Rupture of patellar tendon,Injuries
+SNOMED-CT,308335008,Patient encounter procedure,Intrauterine Device|Male Sterilization|Contraceptive Maintenance
+SNOMED-CT,308540004,Inpatient stay (finding),Congestive Heart Failure
+SNOMED-CT,308646001,Death Certification,DeathModule
+SNOMED-CT,310861008,Chlamydia antigen test,Pregnancy
+SNOMED-CT,311791003,Information gathering (procedure),Homelessness
+SNOMED-CT,31208007,Medical induction of labor,Pregnancy
+SNOMED-CT,312404004,Antenatal blood tests,Pregnancy
+SNOMED-CT,312681000,Bone density scan (procedure),Osteoporosis|Injuries
+SNOMED-CT,313071005,Counseling for substance abuse (procedure),Veteran Substance Abuse Treatment
+SNOMED-CT,313191000,Injection of adrenaline,Severe Allergic Reaction
+SNOMED-CT,314994000,Metastasis from malignant tumor of prostate (disorder),Veteran Prostate Cancer
+SNOMED-CT,315043002,Long term social support,Dementia
+SNOMED-CT,316744009,Office Visit,Dementia
+SNOMED-CT,31676001,Human immunodeficiency virus antigen test,Pregnancy
+SNOMED-CT,32485007,Hospital admission,Fibromyalgia|Dementia
+SNOMED-CT,326051000000105,Self care,Allergies and Treatment|Food Allergies
+SNOMED-CT,33737001,Fracture of rib,Injuries
+SNOMED-CT,359817006,Closed fracture of hip,Injuries
+SNOMED-CT,35999006,Blighted ovum,Pregnancy
+SNOMED-CT,363406005,Malignant tumor of colon,Colorectal Cancer
+SNOMED-CT,367498001,Seasonal allergic rhinitis,Allergic Rhinitis
+SNOMED-CT,368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,36923009,Major depression  single episode,Veteran MDD
+SNOMED-CT,36971009,Sinusitis (disorder),Sinusitis
+SNOMED-CT,370143000,Major depression disorder,Veteran MDD
+SNOMED-CT,370247008,Facial laceration,Injuries
+SNOMED-CT,371605008,Deep breathing and coughing exercises,Bronchitis
+SNOMED-CT,371883000,Outpatient procedure,Allergy Immunotherapy|EncounterModule
+SNOMED-CT,37849005,Congenital uterine anomaly,Pregnancy
+SNOMED-CT,38102005,Open Removal of Gall Bladder,Gallstones
+SNOMED-CT,38341003,Hypertension,Metabolic Syndrome Standards of Care
+SNOMED-CT,384700001,Injection of tetanus antitoxin,Injuries
+SNOMED-CT,385186005,Enema,Cystic Fibrosis
+SNOMED-CT,385486001,Postoperative complication,Gallstones
+SNOMED-CT,385691007,Fracture care,Injuries
+SNOMED-CT,385715006,Cardiac care (regime/therapy),Congestive Heart Failure
+SNOMED-CT,385724002,Coping Support Management,Veteran PTSD|Veteran MDD
+SNOMED-CT,385892002,Mental health screening (procedure),Veteran PTSD
+SNOMED-CT,385949008,Dressing change management,Injuries
+SNOMED-CT,386257007,Demential management,Dementia
+SNOMED-CT,386373004,Nutrition Plan,Cystic Fibrosis
+SNOMED-CT,386394001,Pregnancy termination care,Pregnancy
+SNOMED-CT,386522008,Overactivity/inattention behavior management,Attention Deficit Disorder
+SNOMED-CT,386619000,Low sodium diet (finding),Congestive Heart Failure
+SNOMED-CT,387607004,Construction of diverting colostomy,Colorectal Cancer
+SNOMED-CT,387685009,Surgical manipulation of shoulder joint,Injuries
+SNOMED-CT,38822007,Cystitis,Urinary Tract Infections
+SNOMED-CT,390906007,Follow-Up Encounter,Epilepsy|Veteran Hyperlipidemia|Veteran MDD
+SNOMED-CT,392020005,PICC care,Cystic Fibrosis
+SNOMED-CT,394701000,Asthma follow-up,Asthma
+SNOMED-CT,395082007,Cancer care plan,Colorectal Cancer
+SNOMED-CT,395123002,Urine screening test for diabetes,Pregnancy
+SNOMED-CT,395142003,Allergy screening test,Allergy Immunotherapy|Allergies and Treatment
+SNOMED-CT,398171003,Hearing examination (procedure),Lung Cancer
+SNOMED-CT,398254007,Preeclampsia,Pregnancy
+SNOMED-CT,39848009,Whiplash injury to neck,Injuries
+SNOMED-CT,399014008,Vaccination for diphtheria  pertussis  and tetanus,Pregnancy
+SNOMED-CT,399208008,Plain chest X-ray (procedure),Veteran Lung Cancer|Lung Cancer|Cystic Fibrosis|Bronchitis
+SNOMED-CT,399211009,History of myocardial infarction (situation),CardiovascularDiseaseModule
+SNOMED-CT,40055000,Chronic sinusitis (disorder),Sinusitis
+SNOMED-CT,40275004,Contact dermatitis,Dermatitis
+SNOMED-CT,403190006,First degree burn,Injuries
+SNOMED-CT,403191005,Second degree burn,Injuries
+SNOMED-CT,403192003,Third degree burn,Injuries
+SNOMED-CT,405783006,Psychological assessment,Attention Deficit Disorder
+SNOMED-CT,406185000,Trauma Therapy,Veteran PTSD
+SNOMED-CT,406602003,Infection caused by Staphylococcus aureus,Cystic Fibrosis
+SNOMED-CT,408512008,Body mass index 40+ - severely obese (finding),Metabolic Syndrome Standards of Care
+SNOMED-CT,408580007,Physical activity target light exercise,Veteran Prostate Cancer|Injuries
+SNOMED-CT,408935001,Substance abuse prevention education (procedure),Veteran Substance Abuse Treatment
+SNOMED-CT,408936000,Substance abuse prevention management (procedure),Veteran Substance Abuse Treatment
+SNOMED-CT,408957008,Chronic pain control management,Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,409002,Food allergy diet,Food Allergies
+SNOMED-CT,409063005,Counseling,Attention Deficit Disorder
+SNOMED-CT,410006001,Digital examination of rectum,Veteran Prostate Cancer
+SNOMED-CT,410429000,Cardiac Arrest,CardiovascularDiseaseModule
+SNOMED-CT,410620009,Well child visit (procedure),EncounterModule
+SNOMED-CT,412776001,Chronic obstructive pulmonary disease clinical management plan,COPD
+SNOMED-CT,413757005,Cardiac status is consistent with or improved from preoperative baseline,CardiovascularDiseaseModule
+SNOMED-CT,415070008,Percutaneous coronary intervention,CardiovascularDiseaseModule
+SNOMED-CT,415300000,Review of systems (procedure),anemia_sub
+SNOMED-CT,415665002,Suicide prevention,Self Harm|Veteran Self Harm
+SNOMED-CT,417532002,Allergy to fish,Allergy Incidence
+SNOMED-CT,418577003,Take at regular intervals. Complete the prescribed course unless otherwise directed.,Ear Infection Antibiotic
+SNOMED-CT,418689008,Allergy to grass pollen,Outgrow Environmental Allergies|Allergy Incidence
+SNOMED-CT,418891003,Computed tomography of chest and abdomen,Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,419115000,Do not take milk  indigestion remedies  or medicines containing iron or zinc at the same time of day as this medicine,Ear Infection Antibiotic
+SNOMED-CT,419263009,Allergy to tree pollen,Outgrow Environmental Allergies|Allergy Incidence
+SNOMED-CT,419474003,Allergy to mould,Outgrow Environmental Allergies|Allergy Incidence
+SNOMED-CT,420174000,Allergy to wheat,Outgrow Food Allergies|Allergy Incidence
+SNOMED-CT,422034002,Diabetic retinopathy associated with type II diabetes mellitus (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,422968005,Non-small cell carcinoma of lung  TNM stage 3 (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,423121009,Non-small cell carcinoma of lung  TNM stage 4 (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,424132000,Non-small cell carcinoma of lung  TNM stage 1 (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,424213003,Allergy to bee venom,Allergy Incidence
+SNOMED-CT,424441002,Prenatal initial visit,Pregnancy
+SNOMED-CT,424619006,Prenatal visit,Pregnancy
+SNOMED-CT,425048006,Non-small cell carcinoma of lung  TNM stage 2 (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,425525006,Allergy to dairy product,Outgrow Food Allergies|Allergy Incidence
+SNOMED-CT,425680009,Cognitive behavioral therapy by multidisciplinary team,Veteran MDD
+SNOMED-CT,426990007,Home oxygen therapy (procedure),COPD
+SNOMED-CT,427089005,Male Infertility,Cystic Fibrosis
+SNOMED-CT,428191000124101,Documentation of current medications,Medication Reconciliation
+SNOMED-CT,428251008,History of appendectomy,Appendicitis
+SNOMED-CT,429007001,History of cardiac arrest (situation),CardiovascularDiseaseModule
+SNOMED-CT,429280009,History of amputation of foot (situation),Metabolic Syndrome Standards of Care
+SNOMED-CT,429500007,Monophasic defibrillation,CardiovascularDiseaseModule
+SNOMED-CT,429609002,Lung volume reduction surgery (procedure),COPD
+SNOMED-CT,430193006,Medication Reconciliation (procedure),anemia_sub
+SNOMED-CT,43075005,Partial resection of colon,Colorectal Cancer
+SNOMED-CT,431855005,Chronic kidney disease stage 1 (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,431856006,Chronic kidney disease stage 2 (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,431857002,Chronic kidney disease stage 4 (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,432231006,Fine needle aspiration biopsy of lung (procedure),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,CardiovascularDiseaseModule
+SNOMED-CT,433144002,Chronic kidney disease stage 3 (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,436861000124104,Decreased fat diet,Gallstones
+SNOMED-CT,43878008,Streptococcal sore throat (disorder),Sore Throat
+SNOMED-CT,439830001,Behavior to prevent infection,Injuries
+SNOMED-CT,440381005,Behavior to prevent sun exposure,Lupus|Injuries
+SNOMED-CT,44054006,Diabetes,Metabolic Syndrome Standards of Care
+SNOMED-CT,44301001,Suicide,Self Harm|Veteran Self Harm
+SNOMED-CT,443165006,Pathological fracture due to osteoporosis (disorder),Injuries
+SNOMED-CT,443529005,Screening for chromosomal aneuploidy in prenatal amniotic fluid,Pregnancy
+SNOMED-CT,444260001,20 Gene mutation test,Cystic Fibrosis
+SNOMED-CT,444448004,Injury of medial collateral ligament of knee,Injuries
+SNOMED-CT,444470001,Injury of anterior cruciate ligament,Injuries
+SNOMED-CT,44465007,Sprain of ankle,Injuries
+SNOMED-CT,444814009,Viral sinusitis (disorder),Sinusitis
+SNOMED-CT,445912000,Excision of fallopian tube and surgical removal of ectopic pregnancy,Pregnancy
+SNOMED-CT,44608003,Blood typing  RH typing,Pregnancy
+SNOMED-CT,446096008,Perennial allergic rhinitis,Allergic Rhinitis
+SNOMED-CT,447365002,Insertion of biventricular implantable cardioverter defibrillator,CardiovascularDiseaseModule
+SNOMED-CT,448337001,Telemedicine consultation with patient,Congestive Heart Failure
+SNOMED-CT,448417001,Sepsis caused by Staphylococcus aureus,Cystic Fibrosis
+SNOMED-CT,448813005,Sepsis caused by Pseudomonas (disorder),Cystic Fibrosis
+SNOMED-CT,449868002,Smokes tobacco daily,Veteran Substance Abuse Treatment
+SNOMED-CT,45595009,Laparoscopic Removal of Gall Bladder,Gallstones
+SNOMED-CT,45816000,Pyelonephritis,Urinary Tract Infections
+SNOMED-CT,46028000,Amputation of left hand,Metabolic Syndrome Standards of Care
+SNOMED-CT,46177005,End stage renal disease (disorder),Metabolic Syndrome Disease Progression|Metabolic Syndrome Standards of Care
+SNOMED-CT,46706006,Replacement of contraceptive intrauterine device,Contraceptive Maintenance
+SNOMED-CT,47200007,Non-low risk pregnancy,Pregnancy
+SNOMED-CT,47387005,Head injury rehabilitation,Injuries
+SNOMED-CT,47505003,Posttraumatic stress disorder,Veteran PTSD
+SNOMED-CT,47693006,Rupture of appendix,Appendicitis
+SNOMED-CT,47758006,Hepatitis B Surface Antigen Measurement,Pregnancy
+SNOMED-CT,48333001,Burn injury(morphologic abnormality),Injuries
+SNOMED-CT,48387007,Incision of trachea (procedure),Cystic Fibrosis
+SNOMED-CT,49436004,Atrial Fibrillation,CardiovascularDiseaseModule
+SNOMED-CT,49601007,Disorder of cardiovascular system,CardiovascularDiseaseModule
+SNOMED-CT,50849002,Emergency room admission (procedure),Veteran Lung Cancer|Severe Allergic Reaction|Self Harm|Lung Cancer|Opioid Addiction|Cystic Fibrosis|Appendicitis|Epilepsy|Veteran Self Harm|Gallstones|EncounterModule|Injuries
+SNOMED-CT,51116004,RhD passive immunization,Pregnancy
+SNOMED-CT,52734007,Total replacement of hip,Total Joint Replacement
+SNOMED-CT,52765003,Intubation,General Anesthesia
+SNOMED-CT,53741008,Coronary Heart Disease,CardiovascularDiseaseModule
+SNOMED-CT,53950000,Respiratory therapy,Bronchitis
+SNOMED-CT,54550000,Seizure Count Cerebral Cortex Electroencephalogram (EEG),Epilepsy
+SNOMED-CT,55680006,Drug overdose,Opioid Addiction
+SNOMED-CT,55822004,Hyperlipidemia,Veteran Hyperlipidemia
+SNOMED-CT,5602001,Opioid abuse (disorder),Veteran Substance Abuse Treatment
+SNOMED-CT,56251003,Nebulizer Therapy,Cystic Fibrosis
+SNOMED-CT,56876005,Drug rehabilitation and detoxification,Opioid Addiction
+SNOMED-CT,58150001,Fracture of clavicle,Injuries
+SNOMED-CT,58332002,Allergy education,Allergies and Treatment|Food Allergies
+SNOMED-CT,5880005,Physical examination of mother,Pregnancy
+SNOMED-CT,60112009,Drug addiction counseling,Opioid Addiction
+SNOMED-CT,60151004,Neonatal Screening,Cystic Fibrosis
+SNOMED-CT,6072007,Bleeding from anus,Colorectal Cancer
+SNOMED-CT,609496007,Complication occuring during pregnancy,Pregnancy
+SNOMED-CT,60951000119105,Blindness due to type 2 diabetes mellitus (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,609588000,Total knee replacement,Total Joint Replacement
+SNOMED-CT,61480009,Drug detoxification,Opioid Addiction
+SNOMED-CT,62106007,Concussion with no loss of consciousness,Injuries
+SNOMED-CT,62564004,Concussion with loss of consciousness,Injuries
+SNOMED-CT,64859006,Osteoporosis (disorder),Osteoporosis|Injuries
+SNOMED-CT,65200003,Insertion of intrauterine contraceptive device,Intrauterine Device
+SNOMED-CT,65275009,Acute Cholecystitis,Gallstones
+SNOMED-CT,65363002,Otitis media,Ear Infections
+SNOMED-CT,65546002,Extraction of wisdom tooth,Opioid Addiction
+SNOMED-CT,65575008,Biopsy of prostate,Veteran Prostate Cancer
+SNOMED-CT,65588006,Premature birth of newborn,Pregnancy
+SNOMED-CT,65710008,Death due to acute respiratory failure,Cystic Fibrosis
+SNOMED-CT,65966004,Fracture of forearm,Injuries
+SNOMED-CT,66348005,Childbirth,Pregnancy
+SNOMED-CT,67799006,Diagnosis of cystic fibrosis using sweat test and gene test,Cystic Fibrosis
+SNOMED-CT,67811000119102,Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,67821000119109,Primary small cell malignant neoplasm of lung  TNM stage 2 (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,67831000119107,Primary small cell malignant neoplasm of lung  TNM stage 3 (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,67841000119103,Primary small cell malignant neoplasm of lung  TNM stage 4 (disorder),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,68254000,Removal of intrauterine device,Contraceptive Maintenance
+SNOMED-CT,68496003,Polyp of colon,Colorectal Cancer
+SNOMED-CT,698314001,Consultation for treatment,Implant Contraceptive|Vaginal Ring Contraceptive|Female Sterilization|Intrauterine Device|Male Sterilization|Patch Contraceptive|Oral Contraceptive|Injectable Contraceptive
+SNOMED-CT,698354004,Magnetic resonance imaging for measurement of brain volume (procedure),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,698360004,Diabetes self management plan,Metabolic Syndrome Standards of Care
+SNOMED-CT,698423002,History of disarticulation at wrist (situation),Metabolic Syndrome Standards of Care
+SNOMED-CT,698754002,Chronic paralysis due to lesion of spinal cord,Injuries
+SNOMED-CT,69896004,Rheumatoid arthritis,Rheumatoid Arthritis
+SNOMED-CT,699253003,Surgical manipulation of joint of knee,Injuries
+SNOMED-CT,699728000,Asthma self management,Asthma
+SNOMED-CT,703040004,Agreeing on diabetes care plan,Cystic Fibrosis
+SNOMED-CT,703151001,History of single seizure (situation),Epilepsy
+SNOMED-CT,703423002,Combined chemotherapy and radiation therapy (procedure),Veteran Lung Cancer|Lung Cancer|Colorectal Cancer
+SNOMED-CT,703993001,Colonoscopy planned,Colorectal Cancer
+SNOMED-CT,70704007,Sprain of wrist,Injuries
+SNOMED-CT,707577004,Female Infertility,Cystic Fibrosis
+SNOMED-CT,708409001,Home nebulizer therapy,Asthma
+SNOMED-CT,710081004,smoking cessation therapy,Veteran Substance Abuse Treatment|Bronchitis|Asthma|COPD
+SNOMED-CT,710125008,Promotion of use of memory skills,Dementia
+SNOMED-CT,710818004,Inhaled steroid therapy,Asthma
+SNOMED-CT,710971000,Airway Clearance,Cystic Fibrosis
+SNOMED-CT,711282006,Skin condition care,Dermatitis
+SNOMED-CT,713076009,Antenatal risk assessment,Pregnancy
+SNOMED-CT,713197008,Recurrent rectal polyp,Colorectal Cancer
+SNOMED-CT,714035009,Allergy to soya,Outgrow Food Allergies|Allergy Incidence
+SNOMED-CT,714812005,Induced termination of pregnancy,Pregnancy
+SNOMED-CT,715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure),Veteran PTSD
+SNOMED-CT,718347000,Mental health care plan (record artifact),Veteran PTSD|Veteran MDD
+SNOMED-CT,719858009,Telehealth monitoring (regime/therapy),Veteran PTSD
+SNOMED-CT,7200002,Alcoholism,Veteran Substance Abuse Treatment
+SNOMED-CT,72892002,Normal pregnancy,Pregnancy
+SNOMED-CT,734163000,Care Plan,Opioid Addiction|Cystic Fibrosis|Veteran Substance Abuse Treatment
+SNOMED-CT,735984001,Heart failure self management plan,Congestive Heart Failure
+SNOMED-CT,736252007,Cancer care plan,Veteran Prostate Cancer
+SNOMED-CT,736254008,Psychiatry care plan,Veteran PTSD|Veteran MDD
+SNOMED-CT,736285004,Hyperlipidemia clinical management plan,Veteran Hyperlipidemia
+SNOMED-CT,736353004,Inpatient care plan (record artifact),Congestive Heart Failure|Veteran PTSD
+SNOMED-CT,736690008,Dialysis care plan (record artifact),Dialysis
+SNOMED-CT,737434004,Major depressive disorder clinical management plan,Veteran MDD
+SNOMED-CT,73761001,Colonoscopy,Colorectal Cancer
+SNOMED-CT,74400008,Appendicitis,Appendicitis
+SNOMED-CT,74857009,Hospital admission  short-term  24 hours,Self Harm|Veteran Self Harm
+SNOMED-CT,75162002,Spinal cord injury rehabilitation,Injuries
+SNOMED-CT,75498004,Acute bacterial sinusitis (disorder),Sinusitis
+SNOMED-CT,755621000000101,Replacement of subcutaneous contraceptive,Contraceptive Maintenance
+SNOMED-CT,76164006,Biopsy of colon,Colorectal Cancer
+SNOMED-CT,76168009,Group psychotherapy (regime/therapy),Veteran PTSD
+SNOMED-CT,764101000000108,Allergen immunotherapy drugs Band 1,Allergy Immunotherapy
+SNOMED-CT,76601001,Intramuscular injection,Contraceptive Maintenance|Injectable Contraceptive
+SNOMED-CT,77476009,Application of back brace,Injuries
+SNOMED-CT,781831000000109,Major surgery care management,Total Joint Replacement|Colorectal Cancer
+SNOMED-CT,784051000000106,Depression care management,Self Harm|Veteran Self Harm
+SNOMED-CT,787301000000101,Surgery care management,Female Sterilization|Male Sterilization
+SNOMED-CT,79094001,Initial psychiatric interview with mental status and evaluation,Veteran PTSD|Veteran MDD
+SNOMED-CT,79586000,Tubal pregnancy,Pregnancy
+SNOMED-CT,79733001,Amputation of left leg,Metabolic Syndrome Standards of Care
+SNOMED-CT,80146002,Appendectomy,Appendicitis
+SNOMED-CT,80394007,Hyperglycemia (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,82078001,Take blood sample,Cystic Fibrosis
+SNOMED-CT,82423001,Chronic pain,Opioid Addiction
+SNOMED-CT,83664006,Idiopathic atrophic hypothyroidism,Hypothyroidism
+SNOMED-CT,84757009,Epilepsy,Epilepsy
+SNOMED-CT,850261000000100,Education about dementia,Dementia
+SNOMED-CT,85116003,Miscarriage in second trimester,Pregnancy
+SNOMED-CT,85548006,Episiotomy,Pregnancy
+SNOMED-CT,86849004,Suicidal deliberate poisoning,Self Harm|Veteran Self Harm
+SNOMED-CT,86964003,Sweat Test,Cystic Fibrosis
+SNOMED-CT,869761000000107,Urinary tract infection care,Urinary Tract Infections
+SNOMED-CT,872781000000100,Musculoskeletal care,Lupus|Rheumatoid Arthritis|Gout|Fibromyalgia|Osteoarthritis|Injuries
+SNOMED-CT,87433001,Pulmonary emphysema (disorder),COPD
+SNOMED-CT,88039007,Transplant of lung (procedure),COPD
+SNOMED-CT,88805009,Chronic congestive heart failure (disorder),Congestive Heart Failure
+SNOMED-CT,88848003,Psychiatric follow-up,Self Harm|Veteran Self Harm|Veteran PTSD|Veteran MDD
+SNOMED-CT,90226004,Cytopathology procedure  preparation of smear  genital source,Pregnancy
+SNOMED-CT,90407005,Evaluation of psychiatric state of patient,Self Harm|Veteran Self Harm
+SNOMED-CT,90470006,Prostatectomy,Veteran Prostate Cancer
+SNOMED-CT,90560007,Gout,Gout
+SNOMED-CT,90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,91251008,Physical therapy procedure,Total Joint Replacement|Injuries
+SNOMED-CT,91302008,Death due to sepsis,Gallstones
+SNOMED-CT,91602002,Thoracentesis (procedure),Veteran Lung Cancer|Lung Cancer
+SNOMED-CT,91930004,Allergy to eggs,Outgrow Food Allergies|Allergy Incidence
+SNOMED-CT,91934008,Allergy to nut,Allergy Incidence
+SNOMED-CT,91935009,Allergy to peanuts,Allergy Incidence
+SNOMED-CT,92691004,Carcinoma in situ of prostate (disorder),Veteran Prostate Cancer
+SNOMED-CT,93761005,Primary malignant neoplasm of colon,Colorectal Cancer
+SNOMED-CT,94260004,Secondary malignant neoplasm of colon,Colorectal Cancer
+SNOMED-CT,95281009,Sudden Cardiac Death,Epilepsy
+SNOMED-CT,95417003,Primary fibromyalgia syndrome,Fibromyalgia
+SNOMED-CT,97331000119101,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),Metabolic Syndrome Standards of Care
+SNOMED-CT,9855000,Natural death with unknown cause,CardiovascularDiseaseModule|LifecycleModule
+http://hl7.org/fhir/sid/cvx,03,MMR,Immunizations
+http://hl7.org/fhir/sid/cvx,08,Hep B  adolescent or pediatric,Immunizations
+http://hl7.org/fhir/sid/cvx,10,IPV,Immunizations
+http://hl7.org/fhir/sid/cvx,113,Td (adult) preservative free,Immunizations
+http://hl7.org/fhir/sid/cvx,114,meningococcal MCV4P,Immunizations
+http://hl7.org/fhir/sid/cvx,115,Tdap,Immunizations
+http://hl7.org/fhir/sid/cvx,119,rotavirus  monovalent,Immunizations
+http://hl7.org/fhir/sid/cvx,121,zoster,Immunizations
+http://hl7.org/fhir/sid/cvx,133,Pneumococcal conjugate PCV 13,Immunizations
+http://hl7.org/fhir/sid/cvx,140,Influenza  seasonal  injectable  preservative free,Immunizations
+http://hl7.org/fhir/sid/cvx,20,DTaP,Immunizations
+http://hl7.org/fhir/sid/cvx,21,varicella,Immunizations
+http://hl7.org/fhir/sid/cvx,33,pneumococcal polysaccharide vaccine  23 valent,Immunizations
+http://hl7.org/fhir/sid/cvx,43,Hep B  adult,Immunizations
+http://hl7.org/fhir/sid/cvx,49,Hib (PRP-OMP),Immunizations
+http://hl7.org/fhir/sid/cvx,52,Hep A  adult,Immunizations
+http://hl7.org/fhir/sid/cvx,62,HPV  quadrivalent,Immunizations
+http://hl7.org/fhir/sid/cvx,83,Hep A  ped/adol  2 dose,Immunizations
